@@ -6,14 +6,26 @@ body{
   background-color: #FCF7F8;
 }
 
+A:hover{color:chartreuse}
+nav{background-color: azure;
+}
+ 
 header {
   text-align: center;
 }
 
+header{
+  background-color:rgba(41, 163, 172, 0.562);
+}
 footer {
-  background-color: #343330;
+  background-color:azure;
   text-align: center;
 }
+
+
+main{background-color: aquamarine;
+}
+
 
 
 body{
@@ -26,8 +38,5 @@ header {
   text-align: center;
 }
 
-footer {
-  background-color: #343330;
-  text-align: center;
-}
+
 
