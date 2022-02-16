@@ -3,10 +3,10 @@
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #FCF7F8;
+  background-color:cornflowerblue;
 }
 
-A:hover{color:chartreuse}
+A:hover{color: honeydew;}
 
  
 header {
@@ -20,24 +20,33 @@ header {
 
 
 footer {
-  background-color:azure;
+  background-color:rgb(206, 255, 255);
   text-align: center;
 }
 
 
-
-
-body{
-  font-family: sans-serif;
-  font-size:110%;
-  background-color: #FCF7F8;
+#content{
+  background-color: cyan;
+  align-content: space-between;
 }
+
+
+
+
 #sidebar{
   width: 20%;
   background-color: lightblue;
 }
 .navmenu{
   list-style-type: none;
+}
+#Contact details{
+ color:cornflowerblue;
+ font-family: Arial, Helvetica, sans-serif;
+}
+#Intro{
+  font-family: sans-serif;
+  font-size: 115%;
 }
 
 
