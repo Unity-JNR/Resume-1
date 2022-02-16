@@ -7,24 +7,23 @@ body{
 }
 
 A:hover{color:chartreuse}
-nav{background-color: azure;
-}
+
  
 header {
   text-align: center;
+  background-color: aqua;
+}
+#heading{
+  font-family: sans-serif;
+  font-size: 110%;
 }
 
-header{
-  background-color:rgba(41, 163, 172, 0.562);
-}
+
 footer {
   background-color:azure;
   text-align: center;
 }
 
-
-main{background-color: aquamarine;
-}
 
 
 
@@ -33,9 +32,12 @@ body{
   font-size:110%;
   background-color: #FCF7F8;
 }
-
-header {
-  text-align: center;
+#sidebar{
+  width: 20%;
+  background-color: lightblue;
+}
+.navmenu{
+  list-style-type: none;
 }
 
 
